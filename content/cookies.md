@@ -1,4 +1,4 @@
 Cookies
 ==============================================
 
-Här kommer det stå något lämpligt angående cookies.
+Här kommer det stå lämplig text angående cookies.
